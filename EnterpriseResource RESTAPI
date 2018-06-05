@@ -1,0 +1,2 @@
+Project Online REST API  - Get the EnterpriseResource by ID
+  http://<Project Server URL>/PWA/_api/ProjectServer/EnterpriseResources('<Resource GUID>')
